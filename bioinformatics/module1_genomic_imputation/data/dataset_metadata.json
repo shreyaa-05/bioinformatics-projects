@@ -1,0 +1,10 @@
+{
+  "simulation_type": "founder_mosaic_haplotype_simulation",
+  "n_founders": 25,
+  "n_reference_haplotypes": 200,
+  "n_target_haplotypes": 15,
+  "n_snps": 800,
+  "recomb_rate_per_snp_interval": 0.003,
+  "seed": 1,
+  "description": "Synthetic benchmark dataset inspired by non-model population genetic settings. It is not a real white clover dataset."
+}

@@ -1,0 +1,25 @@
+sample,relative_age,era
+S01_age0.00,0.0,Holocene/thaw-front
+S02_age0.04,0.043478260869565216,Holocene/thaw-front
+S03_age0.09,0.08695652173913043,Holocene/thaw-front
+S04_age0.13,0.13043478260869565,Holocene/thaw-front
+S05_age0.17,0.17391304347826086,Holocene/thaw-front
+S06_age0.22,0.21739130434782608,Holocene/thaw-front
+S07_age0.26,0.2608695652173913,Holocene/thaw-front
+S08_age0.30,0.30434782608695654,Holocene/thaw-front
+S09_age0.35,0.34782608695652173,Holocene/thaw-front
+S10_age0.39,0.3913043478260869,Holocene/thaw-front
+S11_age0.43,0.43478260869565216,Late Pleistocene
+S12_age0.48,0.4782608695652174,Late Pleistocene
+S13_age0.52,0.5217391304347826,Late Pleistocene
+S14_age0.57,0.5652173913043478,Late Pleistocene
+S15_age0.61,0.6086956521739131,Late Pleistocene
+S16_age0.65,0.6521739130434783,Late Pleistocene
+S17_age0.70,0.6956521739130435,Late Pleistocene
+S18_age0.74,0.7391304347826086,Late Pleistocene
+S19_age0.78,0.7826086956521738,Deep Pleistocene
+S20_age0.83,0.8260869565217391,Deep Pleistocene
+S21_age0.87,0.8695652173913043,Deep Pleistocene
+S22_age0.91,0.9130434782608695,Deep Pleistocene
+S23_age0.96,0.9565217391304348,Deep Pleistocene
+S24_age1.00,1.0,Deep Pleistocene

@@ -1,4 +1,3 @@
-<img width="672" height="549" alt="image" src="https://github.com/user-attachments/assets/83f07180-0122-4074-ad34-b3d4d0343d01" /># Bioinformatics Projects
 
 A collection of computational bioinformatics projects exploring genomic data analysis, statistical modelling, microbiome/virome analysis, and biological data interpretation.
 

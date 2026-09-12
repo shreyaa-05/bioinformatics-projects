@@ -40,8 +40,6 @@ To simulate haplotype data and evaluate how different reference panel sizes and 
 
 #### Terminal Output
 
-
-
 <img width="743" height="711" alt="Genomic_Imputation_Output" src="https://github.com/user-attachments/assets/8959b5a3-2010-41dc-80ff-ce451f4a057e" />
 _______________
 
@@ -52,10 +50,7 @@ _________________
 ________________
 <img width="704" height="502" alt="WhatsApp Image 2026-09-12 at 10 09 21 PM" src="https://github.com/user-attachments/assets/fa7e3c6e-62cc-476f-9026-bbfabdbaf0b7" />
 
-
-
 ---
-
 ### 2. Permafrost Virome–Microbiome Analysis
 
 **Folder:** `bioinformatics/module2_permafrost_virome/`
@@ -107,12 +102,8 @@ ________________
 <img width="909" height="369" alt="WhatsApp Image 2026-09-12 at 10 10 52 PM" src="https://github.com/user-attachments/assets/3abd4a29-1ea5-4cca-849f-b90faac66a8c" />
 ________________
 
-
-
 <img width="909" height="368" alt="WhatsApp Image 2026-09-12 at 10 11 39 PM" src="https://github.com/user-attachments/assets/d5ef5fd6-21f5-4665-bb35-78b7f9a2e5fb" />
 ________________
-
-
 
 <img width="672" height="549" alt="WhatsApp Image 2026-09-12 at 10 12 40 PM" src="https://github.com/user-attachments/assets/f7cf3a35-86fa-4327-be7a-f3da5f1ab4d6" />
 

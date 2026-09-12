@@ -106,6 +106,17 @@ The results demonstrate the importance of reference-panel representation when re
 
 <img width="704" height="502" alt="WhatsApp Image 2026-09-12 at 10 09 21 PM" src="https://github.com/user-attachments/assets/fa7e3c6e-62cc-476f-9026-bbfabdbaf0b7" />
 
+## Limitations
+The current study uses simulated genomic data and a simplified imputation model. Real-world genomic datasets contain additional sources of sequencing and population-genetic variation that are not represented in the simulation.
+
+## Future Work
+
+- Evaluate the approach using real genotype or sequencing datasets.
+- Compare the simplified implementation with established imputation tools such as BEAGLE or GLIMPSE.
+- Introduce larger and more diverse reference panels.
+- Model additional sources of sequencing uncertainty and genotype likelihoods.
+- Explore more advanced HMM-based imputation strategies.
+- Benchmark computational runtime and memory usage alongside imputation accuracy.
 ---
 # Project 2 — Permafrost Virome–Microbiome Analysis
 
@@ -218,5 +229,19 @@ These results demonstrate how abundance-based statistical relationships can be u
 
 
 <img width="672" height="549" alt="WhatsApp Image 2026-09-12 at 10 12 40 PM" src="https://github.com/user-attachments/assets/f7cf3a35-86fa-4327-be7a-f3da5f1ab4d6" />
+
+## Limitations
+Virus–host relationships are inferred from co-abundance patterns. Correlation alone cannot establish a confirmed biological interaction.
+
+
+## Future Work
+
+- Apply the workflow to real metagenomic and viromic datasets.
+- Incorporate genomic evidence alongside abundance-based relationships for virus–host prediction.
+- Compare multiple host-prediction approaches rather than relying on a single correlation-based method.
+- Increase the number and diversity of samples and microbial taxa.
+- Apply statistical significance testing and multiple-testing correction to correlation analysis.
+- Investigate machine-learning approaches for combining multiple features for virus–host prediction.
+- Integrate additional environmental variables to study their influence on microbial community structure.
 
 

@@ -43,10 +43,13 @@ To simulate haplotype data and evaluate how different reference panel sizes and 
 
 
 <img width="743" height="711" alt="Genomic_Imputation_Output" src="https://github.com/user-attachments/assets/8959b5a3-2010-41dc-80ff-ce451f4a057e" />
+_______
 
 <img width="708" height="505" alt="WhatsApp Image 2026-09-12 at 10 08 38 PM" src="https://github.com/user-attachments/assets/ab104fd0-b249-45ce-8359-ab0c706af62c" />
+_______
 
 <img width="909" height="369" alt="WhatsApp Image 2026-09-12 at 10 10 52 PM" src="https://github.com/user-attachments/assets/422f2d35-f745-4b2f-9b73-6d59365891be" />
+________
 <img width="704" height="502" alt="WhatsApp Image 2026-09-12 at 10 09 21 PM" src="https://github.com/user-attachments/assets/fa7e3c6e-62cc-476f-9026-bbfabdbaf0b7" />
 
 
@@ -99,8 +102,10 @@ To explore how microbial communities may change across permafrost age and to pre
 #### Terminal Output
 
 <img width="902" height="184" alt="Permafrost_Virome_Output" src="https://github.com/user-attachments/assets/06e69868-faa5-4daa-adaa-f3c247974215" />
+____
 
 <img width="909" height="369" alt="WhatsApp Image 2026-09-12 at 10 10 52 PM" src="https://github.com/user-attachments/assets/3abd4a29-1ea5-4cca-849f-b90faac66a8c" />
+_______
 
 
 

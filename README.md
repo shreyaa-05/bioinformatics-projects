@@ -38,6 +38,13 @@ To simulate haplotype data and evaluate how different reference panel sizes and 
 - Genotype concordance
 - Dosage R²
 
+#### Terminal Output
+
+
+
+<img width="743" height="711" alt="Genomic_Imputation_Output" src="https://github.com/user-attachments/assets/8959b5a3-2010-41dc-80ff-ce451f4a057e" />
+
+
 ---
 
 ### 2. Permafrost Virome–Microbiome Analysis

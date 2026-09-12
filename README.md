@@ -93,31 +93,3 @@ To explore how microbial communities may change across permafrost age and to pre
 #### Terminal Output
 
 <img width="902" height="184" alt="Permafrost_Virome_Output" src="https://github.com/user-attachments/assets/06e69868-faa5-4daa-adaa-f3c247974215" />
-
-
----
-
-## Repository Structure
-
-```text
-bioinformatics-projects/
-│
-├── README.md
-│
-└── bioinformatics/
-    │
-    ├── README.md
-    │
-    ├── module1_genomic_imputation/
-    │   ├── data/
-    │   ├── results/
-    │   ├── simulate_data.py
-    │   ├── run_imputation_benchmark.py
-    │   ├── plot_results.py
-    │   └── README.md
-    │
-    └── module2_permafrost_virome/
-        ├── results/
-        ├── simulate_metagenome.py
-        ├── analyze_virome_microbiome.py
-        └── README.md
